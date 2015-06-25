@@ -1,0 +1,5 @@
+example
+*.log
+coverage
+build
+node_modules

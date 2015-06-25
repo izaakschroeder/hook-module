@@ -1,0 +1,7 @@
+{
+	"name": "hook-module",
+	"version": "0.1.0",
+	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+	"main": "./lib/hook.js",
+	"license": "CC0-1.0"
+}

@@ -1,0 +1,10 @@
+{
+	"name": "module-hook-example",
+	"dependencies": {
+		"lodash": "^3.9.3",
+		"webpack": "^1.9.0",
+		"hook-module": "^0.1.0",
+		"json5-loader": "^0.6.0",
+		"json5": "^0.4.0"
+	}
+}
