@@ -27,7 +27,7 @@ function resolveWebpackAsset(request, parent) {
 	if (request.charAt(0) === '/') {
 		return request;
 	} else {
-		return path.resolve(root, request);
+		return path.resolve(path.dirname(parent.id), request);
 	}
 }
 
