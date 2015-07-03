@@ -3,5 +3,12 @@
 	"version": "0.1.0",
 	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
 	"main": "./lib/hook.js",
-	"license": "CC0-1.0"
+	"license": "CC0-1.0",
+	"scripts": {
+		"test": "./node_modules/.bin/mocha test/spec/*.js"
+	},
+	"devDependencies": {
+		"mocha": "^2.2.5",
+		"chai": "^3.0.0"
+	}
 }
