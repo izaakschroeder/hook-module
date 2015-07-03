@@ -2,6 +2,12 @@
 
 Hook node module loading internals to do your bidding.
 
+![build status](http://img.shields.io/travis/izaakschroeder/hook-module/master.svg?style=flat&branch=master)
+![coverage](http://img.shields.io/coveralls/izaakschroeder/hook-module/master.svg?style=flat&branch=master)
+![license](http://img.shields.io/npm/l/hook-module.svg?style=flat)
+![version](http://img.shields.io/npm/v/hook-module.svg?style=flat)
+![downloads](http://img.shields.io/npm/dm/hook-module.svg?style=flat)
+
 You know those times when someone says "this is probably a terrible idea"? Yea. This is one of those. If you think you have a use case for this module you probably don't.
 
 Right now it's being used to load modules from webpack's in-memory filesystem, which would otherwise be impossible to do.
