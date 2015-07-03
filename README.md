@@ -2,8 +2,8 @@
 
 Hook node module loading internals to do your bidding.
 
-![build status](http://img.shields.io/travis/izaakschroeder/hook-module/master.svg?style=flat&branch=master)
-![coverage](http://img.shields.io/coveralls/izaakschroeder/hook-module/master.svg?style=flat&branch=master)
+![build status](http://img.shields.io/travis/izaakschroeder/hook-module.svg?style=flat&branch=master)
+![coverage](http://img.shields.io/coveralls/izaakschroeder/hook-module.svg?style=flat&branch=master)
 ![license](http://img.shields.io/npm/l/hook-module.svg?style=flat)
 ![version](http://img.shields.io/npm/v/hook-module.svg?style=flat)
 ![downloads](http://img.shields.io/npm/dm/hook-module.svg?style=flat)
